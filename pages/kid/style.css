@@ -1,0 +1,14 @@
+* {
+  font-family: "Audiowide", sans-serif;
+}
+
+.navstyle{
+  box-shadow: 0px 10px 20px rgb(165, 57, 130);
+}
+
+.a-style:hover {
+  color: rgb(165, 57, 130);
+  font-size: 24px;
+}
+
+
