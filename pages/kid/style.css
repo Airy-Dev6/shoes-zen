@@ -6,9 +6,31 @@
   box-shadow: 0px 10px 20px rgb(165, 57, 130);
 }
 
+.a-style {
+  transition: 0.2s;
+}
+
 .a-style:hover {
   color: rgb(165, 57, 130);
   font-size: 24px;
 }
+
+.lucide{
+  transition: .2s;
+
+}
+
+.lucide:hover {
+  color: rgb(165, 57, 130);
+  margin-left: 10px;
+  width: 40px;
+  height: 40px;
+
+}
+
+.box-shopping-car {
+  margin-left: 30px;
+}
+
 
 
